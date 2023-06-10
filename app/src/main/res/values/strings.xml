@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewBindingDemo</string>
+    <string name="name">INSERT YOUR NAME</string>
+    <string name="age">INSERT YOUR AGE</string>
+    <string name="save">SAVE</string>
+    <string name="login_unsafe">LOGIN UNSAFE</string>
+</resources>
